@@ -19,7 +19,7 @@ import award03 from '../assets/award03.png';
 import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
-import gericht from '../assets/grand.png';
+import gericht from '../assets/solace.png';
 
 export default {
   bg,
